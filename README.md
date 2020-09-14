@@ -1,7 +1,5 @@
 ## Project 1: Data wrangling NYC housing data
 
-<img src="https://github.com/dougfaust/Portfolio/blob/master/images/NYC_heatmap.jpg" width="549" height="324" />
-
 ![](https://github.com/dougfaust/Portfolio/blob/master/images/NYC_complaint_heatmap.jpg)
 
 This is a project started as the "Capstone" project for IBM's Data Science professional certification.  I added visualizations and incorporated more data sets to get more user-friendly answers.
