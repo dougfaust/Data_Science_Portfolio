@@ -6,7 +6,7 @@
 
 This is a project started as the "Capstone" project for IBM's Data Science professional certification.  I added visualizations and incorporated more data sets to get more user-friendly answers.
 
-### The question were to characterize the most important areas and type of housing complaints in the NYC area.
+### The project goal was to characterize the most important areas and type of housing complaints in the NYC area.
 
 This involved the following data sets:
 - The [311 Service Requests from 2010 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) from NYC Open Data
