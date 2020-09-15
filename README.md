@@ -1,4 +1,4 @@
-## Project 1: Data wrangling and modeling of NYC housing complaint data
+## Project 1: Data wrangling and modeling of NYC housing complaints
 
 <img src="./images/NYC_complaint_heatmap.jpg">
 
@@ -15,6 +15,14 @@ The three specific questions the code addresses are:
 - Question 1: Ingest and clean the 311 dataset to determine what type of housing complaints the city should prioritize
 - Question 2: Locate and visualize complaint "hot spots" in the five boroughs using geographic data
 - Question 3: Create a model to predict which building characteristics correlate with housing complaints using combined PLUTO and 311 data
+
+The techniques used are:
+
+| General skills | languages/packages |
+| ------------ | ------------- |
+|Random Forest   |   python/Pandas |
+| Data Wrangling  |   choropleth/folium |
+| ANOVA    |  jupyter |
 
 ## Project 2:
 ## Project 3: 
