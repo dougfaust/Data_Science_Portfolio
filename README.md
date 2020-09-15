@@ -4,7 +4,7 @@
 
 ![img?](https://github.com/dougfaust/Portfolio/blob/master/images/NYC_complaint_heatmap.jpg)
 
-<img src="https://github.com/dougfaust/Portfolio/blob/master/images/NYC_complaint_heatmap.jpg">
+<img src="./images/NYC_complaint_heatmap.jpg">
 
 This is a project started as the "Capstone" project for IBM's Data Science professional certification.  I added visualizations and incorporated more data sets to get more user-friendly answers.
 
