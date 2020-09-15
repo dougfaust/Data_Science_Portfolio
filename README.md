@@ -1,8 +1,8 @@
-## Project 1: Data wrangling NYC housing data
+## Project 1: Data wrangling and modeling of NYC housing complaint data
 
 <img src="./images/NYC_complaint_heatmap.jpg">
 
-This is a project started as the "Capstone" project for IBM's Data Science professional certification.  I added visualizations and incorporated more data sets to get more user-friendly answers.
+This is a project started as the "Capstone" project for [IBM's Data Science professional certification](https://www.ibm.com/blogs/ibm-training/data-science-ibm-coursera/).  I added visualizations and incorporated more data sets to get more user-friendly answers.
 
 ### The project goal was to characterize the most important areas and type of housing complaints in the NYC area.
 
