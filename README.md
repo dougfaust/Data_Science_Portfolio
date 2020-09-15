@@ -8,8 +8,15 @@ This is a project started as the "Capstone" project for IBM's Data Science profe
 
 This involved the following data sets:
 - The [311 Service Requests from 2010 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) from NYC Open Data
-- The [PLUTO land use and buidling characteristics](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) data set
+- The [PLUTO land use and building characteristics](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) data set
 - Geographic data from [data.gov](https://catalog.data.gov/dataset/zip-codes-zipcodes) and for the [folium](https://python-visualization.github.io/folium/) libraries for choropleth visualizations
 
-### Jupyter code repo
-### HTML of choropleth
+The three specific questions the code addresses are:
+- Question 1: Ingest and clean the 311 dataset to determine what type of housing complaints the city should prioritize
+- Question 2: Locate and visualize complaint "hot spots" in the five boroughs using geographic data
+- Question 3: Create a model to predict which building characteristics correlate with housing complaints using combined PLUTO and 311 data
+
+## Project 2:
+## Project 3: 
+
+contact info:
