@@ -24,7 +24,3 @@ The techniques used are:
 | Data Wrangling  |   choropleth/folium |
 | ANOVA    |  jupyter |
 
-## Project 2:
-## Project 3: 
-
-contact info:
