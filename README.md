@@ -15,12 +15,13 @@ The three specific questions the code addresses are:
 - Question 1: Ingest and clean the 311 dataset to determine what type of housing complaints the city should prioritize
 - Question 2: Locate and visualize complaint "hot spots" in the five boroughs using geographic data
 - Question 3: Create a model to predict which building characteristics correlate with housing complaints using combined PLUTO and 311 data
+   (in part, this was used to learn how to use k-prototype Clustering methods on mixed data)
 
 The techniques used are:
 
 | General skills | languages/packages |
 | ------------ | ------------- |
-|Random Forest   |   python/Pandas |
+| k-prototype   |   python/Pandas |
 | Data Wrangling  |   choropleth/folium |
 | ANOVA    |  jupyter |
 
