@@ -21,7 +21,7 @@ The techniques used are:
 
 | General skills | languages/packages |
 | ------------ | ------------- |
-| k-prototype   |   python/Pandas |
+| k-Prototype Clustering  |   python/Pandas |
 | Data Wrangling  |   choropleth/folium |
 | ANOVA    |  jupyter |
 
